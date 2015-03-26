@@ -1,0 +1,3 @@
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/InteractingwithiOSDevicesThroughTouch/InteractingwithiOSDevicesThroughTouch.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/InteractingwithiOSDevicesThroughTouch.iOS.exe
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/InteractingwithiOSDevicesThroughTouch/InteractingwithiOSDevicesThroughTouch.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/InteractingwithiOSDevicesThroughTouch/InteractingwithiOSDevicesThroughTouch.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
